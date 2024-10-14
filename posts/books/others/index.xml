@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Others on Strafo's Blog</title><link>https://strafo.github.io/posts/books/others/</link><description>Recent content in Others on Strafo's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://strafo.github.io/posts/books/others/index.xml" rel="self" type="application/rss+xml"/><item><title>21 Lessons for the 21st Century</title><link>https://strafo.github.io/posts/books/others/21-lezioni-diciannovesimo-secolo/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/21-lezioni-diciannovesimo-secolo/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Others on Strafo's Blog</title><link>https://www.strafo.net/posts/books/others/</link><description>Recent content in Others on Strafo's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://www.strafo.net/posts/books/others/index.xml" rel="self" type="application/rss+xml"/><item><title>21 Lessons for the 21st Century</title><link>https://www.strafo.net/posts/books/others/21-lezioni-diciannovesimo-secolo/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/21-lezioni-diciannovesimo-secolo/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -23,14 +23,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Bomba Atomica</title><link>https://strafo.github.io/posts/books/others/bomba-atomica/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/bomba-atomica/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Bomba Atomica</title><link>https://www.strafo.net/posts/books/others/bomba-atomica/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/bomba-atomica/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -48,14 +48,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Man and His Symbols</title><link>https://strafo.github.io/posts/books/others/man-and-his-symbols/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/man-and-his-symbols/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Man and His Symbols</title><link>https://www.strafo.net/posts/books/others/man-and-his-symbols/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/man-and-his-symbols/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -73,14 +73,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Post Office</title><link>https://strafo.github.io/posts/books/others/post-office/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/post-office/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Post Office</title><link>https://www.strafo.net/posts/books/others/post-office/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/post-office/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -98,14 +98,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Principles</title><link>https://strafo.github.io/posts/books/others/principles/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/principles/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Principles</title><link>https://www.strafo.net/posts/books/others/principles/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/principles/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -123,14 +123,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Project Nutrition</title><link>https://strafo.github.io/posts/books/others/project-nutrition/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/project-nutrition/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Project Nutrition</title><link>https://www.strafo.net/posts/books/others/project-nutrition/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/project-nutrition/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -148,14 +148,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Project Strength</title><link>https://strafo.github.io/posts/books/others/ciclo-delle-fondazioni/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/ciclo-delle-fondazioni/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Project Strength</title><link>https://www.strafo.net/posts/books/others/ciclo-delle-fondazioni/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/ciclo-delle-fondazioni/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -173,14 +173,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Project Strength</title><link>https://strafo.github.io/posts/books/others/project-strength/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/project-strength/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Project Strength</title><link>https://www.strafo.net/posts/books/others/project-strength/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/project-strength/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -198,14 +198,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Science and Development of Muscle Hypertrophy</title><link>https://strafo.github.io/posts/books/others/science-and-development-of-muscle-hypertrophy/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/science-and-development-of-muscle-hypertrophy/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Science and Development of Muscle Hypertrophy</title><link>https://www.strafo.net/posts/books/others/science-and-development-of-muscle-hypertrophy/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/science-and-development-of-muscle-hypertrophy/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -223,14 +223,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Social Engineering: The Art of Human Hacking</title><link>https://strafo.github.io/posts/books/others/social-engineering-human-hacking/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/social-engineering-human-hacking/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>Social Engineering: The Art of Human Hacking</title><link>https://www.strafo.net/posts/books/others/social-engineering-human-hacking/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/social-engineering-human-hacking/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
@@ -248,14 +248,14 @@ class="center"
 &lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>The Subtle Art of Not Giving a F*ck</title><link>https://strafo.github.io/posts/books/others/the-subtle-art-of-not-giving-a-fuck/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://strafo.github.io/posts/books/others/the-subtle-art-of-not-giving-a-fuck/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;/div></description></item><item><title>The Subtle Art of Not Giving a F*ck</title><link>https://www.strafo.net/posts/books/others/the-subtle-art-of-not-giving-a-fuck/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0200</pubDate><guid>https://www.strafo.net/posts/books/others/the-subtle-art-of-not-giving-a-fuck/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
 &lt;ul>
 &lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
 &lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
 &lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
 &lt;/ul>
 &lt;h3 id="image-sample">Image Sample&lt;/h3>
-&lt;img src="https://strafo.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://www.strafo.net/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 >
