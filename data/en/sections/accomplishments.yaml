@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Accomplishments
+  name: Courses
   id: accomplishments
   enable: true
   weight: 9
@@ -11,36 +11,93 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Observability in Cloud Native apps using OpenTelemetry
+  # timeline: "March 2018 - March 2019"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Michael Haberman - Udemy
+    url: https://www.udemy.com/
+  courseOverview: "A comprehensive course for software engineers, DevOps, and SREs focused on mastering observability in cloud-native applications using OpenTelemetry, Jaeger, and Prometheus, covering fundamentals, hands-on projects, and best practices for enhanced performance and reliability."
+  #certificateURL: "https://example.com"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Introduction to Testing in Go (Golang)
+  # timeline: "March 2018 - March 2019"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Trevor Sawler - Udemy
+    url: https://www.udemy.com/
+  courseOverview: "This course focuses on writing unit and integration tests in Go, guiding you through building and thoroughly testing four applications, including a CLI, web app, REST API, and SPA, while covering key testing techniques such as application routes, handlers, database operations, and user authentication."
+  #certificateURL: "https://example.com"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Apache Kafka Series - Learn Apache Kafka for Beginners v3
+  # timeline: "March 2018 - March 2019"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Conduktor Kafkademy - Udemy
+    url: https://www.udemy.com/
+  courseOverview: An in-depth Apache Kafka course covering fundamentals, ecosystem architecture, and hands-on Java-based projects, designed to make learning Kafka accessible without prior knowledge.
+  #certificateURL: "https://example.com"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Apache Kafka Series - Kafka Connect Hands-on Learning
+  # timeline: "March 2018 - March 2019"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
+    name: Conduktor Kafkademy - Udemy
+    url: https://www.udemy.com/
+  courseOverview: "A comprehensive course launched in April 2017 for mastering the Apache Kafka Connect framework, featuring hands-on training in connector deployment, configuration, and management, with practical exercises in both distributed and standalone modes."
+  #certificateURL: "https://example.com"
+
+- name: Apache Kafka Series - Kafka Streams for Data Processing
+  # timeline: "March 2018 - March 2019"
+  organization:
+    name: Conduktor Kafkademy - Udemy
+    url: https://www.udemy.com/
+  courseOverview: "A hands-on, Java-based course in the Apache Kafka Series focused on mastering Kafka Streams, covering data transformation, aggregation, and deployment with practical exercises and theoretical insights into APIs and Exactly Once semantics."
+  #certificateURL: "https://example.com"
+
+- name: Kubernetes Certified Application Developer (CKAD) with Tests
+  # timeline: "March 2018 - March 2019"
+  organization:
+    name: KodeKloud Training - Udemy
+    url: https://www.udemy.com/
+  courseOverview: "A detailed Kubernetes course that enhances your DevOps skills with hands-on labs and animated lectures, focusing on deploying and managing cloud-native applications while preparing you for certification and real-world proficiency."
+  #certificateURL: "https://example.com"
+
+- name: Certified Kubernetes Administrator (CKA) with Practice Tests
+  # timeline: "March 2018 - March 2019"
+  organization:
+    name: KodeKloud Training - Udemy
+    url: https://www.udemy.com/
+  courseOverview: "A hands-on Kubernetes course for mastering containerized application deployment and administration, preparing for certification with practical labs and real-world assignments."
+  #certificateURL: "https://example.com"
+
+
+# - name: Linux Foundation System Administrator
+#   timeline: "March 2018 - March 2019"
+#   organization:
+#     name: Linux Foundation
+#     url: https://www.linuxfoundation.org
+#   courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+#   certificateURL: "https://example.com"
+
+# - name: Machine Learning
+#   timeline: "Jun 2020 - Jan 2021"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org
+#   courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+#   certificateURL: "https://example.com"
+
+# - name: Grokking the System Design Interview
+#   timeline: "Jan 2018 - Sept 2018"
+#   organization:
+#     name: educative
+#     url: https://www.educative.io
+#   courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+#   certificateURL: "https://example.com"
+
+# - name: Mastering Multithreading Programming with Go (Golang)
+#   timeline: "Nov 2017 - Mar 2018"
+#   organization:
+#     name: Udemy
+#     url: https://www.udemy.com
+#   courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
+#   certificateURL: "https://example.com"
  
 

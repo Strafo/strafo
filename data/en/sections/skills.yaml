@@ -17,8 +17,8 @@ buttons:
   filter: "basic"
 - name: Language
   filter: "language"
-- name: Container
-  filter: "container"
+- name: Virtualization
+  filter: "virtualization"
 - name: Others
   filter: "others"
 
@@ -27,45 +27,92 @@ buttons:
 skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
+  summary: "Experience in deploying and managing applications on K8s using Helm and Operators. Experience in managing OpenShift and K8s clusters."
+  categories: ["virtualization"]
   url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+- name: Hypervisors
+  logo: /images/sections/skills/proxmox.png
+  summary: "Experience in managing a hyper-converged development environment. I've used vSphere and Proxmox at work, and my home lab is based on Proxmox."
+  categories: ["virtualization"]
+  url: "https://kubernetes.io/"
+
+- name: Java
+  logo: /images/sections/skills/java.svg
+  summary: "I use it as one of my main languages for professional work to leverage the immense ecosystem of libraries for interacting with all types of systems."
   categories: ["basic", "language"]
   url: "https://golang.org/"
 
+- name: Go
+  logo: /images/sections/skills/go.png
+  summary: "Used on multiple occasions at work but not proficient. I am actively working to improve my skills in this area."
+  categories: ["basic", "language"]
+  url: "https://golang.org/"
+
+- name: Spring
+  logo: /images/sections/skills/spring.svg
+  summary: "Used on various occasions at work to create different backend microservices using OpenAPI, JPA, and event-driven architectures based on Kafka."
+  categories: ["basic", "others"]
+  url: "https://golang.org/"
+
+- name: Python
+  logo: /images/sections/skills/python.svg
+  summary: "Proficient and used on numerous occasions for both work and personal projects."
+  categories: ["basic", "language"]
+  url: "https://golang.org/"
+
+- name: Kafka
+  logo: /images/sections/skills/kafka.svg
+  summary: "Extensively used at work, proficient in administration and tuning. I've used Kafka Connect and Kafka Streams APIs to create sinks/sources and scalable analytics software."
+  categories: [ "others"]
+  url: "https://golang.org/"
+
+
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+  summary: "Experienced with Google Cloud Platform. Both for work and personal projects."
+  categories: ["virtualization"]
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
+  summary: "Dockerized everything! Experienced with multi-stage, multi-arch build process."
+  categories: ["virtualization"]
   url: "https://www.docker.com/"
 
-- name: Prometheus
+- name: Databases
+  logo: /images/sections/skills/db.png
+  summary: "Experienced with various types of databases: SQL, NoSQL, and in-memory. Primarily worked with MySQL, PostgreSQL, InfluxDB, and Redis."
+  categories: ["basic", "others"]
+  url: "https://www.docker.com/"
+
+- name: Prometheus Stack
   logo: /images/sections/skills/prometheus.png
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
+  categories: ["others"]
   url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+  summary: "Using Fedora as my main operating system. Experienced with system administration and shell scripting."
+  categories: ["basic"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development, using mostly trunk-based methodology, primarily on GitLab. Also experienced in working with GitHub."
   categories: ["basic"]
   url: "https://git-scm.com/"
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know basic C/C++ programming. Used for various university projects."
+  categories: ["basic", "language"]
+
+- name: JavaScript
+  logo: /images/sections/skills/js.png
+  summary: "I extensively used TypeScript with React during my years at Reply. I also have experience with Node.js for minor personal projects."
+  categories: ["basic", "language"]
+
+- name: Rust
+  logo: /images/sections/skills/rust.png
+  summary: "Used for developing real-time applications. Experienced with multithreading and async programming with tokio."
   categories: ["basic", "language"]
