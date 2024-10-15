@@ -11,6 +11,13 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: "Domain Models in Practice Workshop: DDD, CQRS and Event Sourcing"
+  organization:
+    name: Marco Heimeshoff - Avanscoperta
+    url: https://www.avanscoperta.it/en/
+  courseOverview: "This intensive online workshop explores the technical relationship between code, culture and architecture and you’ll learn how to model and implement software from a business perspective."
+  certificateURL: "https://www.dropbox.com/scl/fo/p2geyhb9moobqethsnrrs/AKzkuyOtnsV_gTiZlw8lxtg?e=1&preview=andrea_straforini.pdf&rlkey=jt0mfjkuuzbqd32t2m3zehfrf&st=bkiyvftf&dl=0"
+
 - name: Observability in Cloud Native apps using OpenTelemetry
   # timeline: "March 2018 - March 2019"
   organization:
